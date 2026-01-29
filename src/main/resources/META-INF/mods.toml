@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="jegdurabilityremoved"
+version="1.0.0"
+displayName="JEG Durability Removed"
+description="Disables durability loss for Just Enough Guns guns and attachments."
